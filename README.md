@@ -1,16 +1,30 @@
-## Hi there 👋
+![picture alt]( https://media.giphy.com/media/HoIrPgqTBiB2XvVEf7/giphy.gif "Title is optional")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenrip&label=Profile%20views&color=0e75b6&style=flat" alt="erenrip" /> </p>
 
-<!--
-**Eren1415/Eren1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @ErenRip
+- 👀 I’m interested in :  software, Graphic design and Video edit
+- 🌱 I’m currently learning  i am learning c/c++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Dıscord: Er3n#3368
+- [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://codebankhub.blogspot.com)](https://codehubcommunity.blogspot.com) 
+
+
+
+
+Software Language| The Game Engine | Operating system
+| :---: | :---: | :---:
+Arduino (c++)  | Unreal Engine 4 and higher | Windows 10 Pro
+C# Console  | BluePrint | Windows 11 dev
+C# OBP      |           | Kali Linux
+Python      |           | Pardus
+Html-Css    |           |
+Java        |Android St |
+
+   
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenrip&hide=javascript,css,scss,html&theme=tokyonight)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenrip&theme=github_dark&show_icons=true)
+
+
