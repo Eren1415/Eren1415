@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m @ErenRip
+- 👋 Hi, I’m @Eren1415
 - 👀 I’m interested in :  software, Graphic design and Video edit
 - 📫 How to reach me: Dıscord: Er3ny
 - [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://codebankhub.blogspot.com)](https://codehubcommunity.blogspot.com) 
